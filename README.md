@@ -7,3 +7,4 @@ Another surprise is that F# is a great candidate to explore functional data stru
 a good update to the excellent work by [Chris Okasaki](https://en.wikipedia.org/wiki/Chris_Okasaki#Purely_functional_data_structures)
 
 - [Breadth-First Search](./bfs.ipynb)
+- [Queue](./queue.ipynb)
