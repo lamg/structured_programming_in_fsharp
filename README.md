@@ -8,3 +8,4 @@ a good update to the excellent work by [Chris Okasaki](https://en.wikipedia.org/
 
 - [Breadth-First Search](./bfs.ipynb)
 - [Queue](./queue.ipynb)
+- [Pattern matching nesting reduction](./pattern_matching_nesting_reduction.ipynb)
