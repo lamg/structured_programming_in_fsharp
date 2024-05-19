@@ -1,4 +1,4 @@
-# Functional data structures in F#
+# Structured programming in F#
 
 One of the things I enjoyed when discovering for the first time functional programming, was how it reveals
 patterns that traditional imperative programming hides. I was delighted to discover how implementing [Breadth-First Search](https://en.wikipedia.org/wiki/Breadth-first_search) with the sort of restrictions we  expect from functional programming, also reveals hidden patterns.
@@ -10,3 +10,4 @@ a good update to the excellent work by [Chris Okasaki](https://en.wikipedia.org/
 - [Queue](./queue.ipynb)
 - [Pattern matching nesting reduction](./pattern_matching_nesting_reduction.ipynb)
 - [Fixed points](./fixed_points.ipynb)
+- [Exception vs Result](./exception_vs_result.ipynb)
