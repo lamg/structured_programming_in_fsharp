@@ -24,9 +24,6 @@ jobs:
       # Restore the local tools
       - name: Restore tools
         run: dotnet tool restore
-      # Build the code for the API documentation
-      - name: Build code
-        run: dotnet build -c Release YourSolution.sln
       # Generate the documentation files
       - name: Generate the documentation'
         run: dotnet fsdocs build --properties Configuration=Release
