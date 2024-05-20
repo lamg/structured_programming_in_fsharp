@@ -4,7 +4,7 @@ name: Docs
 on:
   push:
     branches:
-      - main
+      - master
 
 # We need some permissions to publish to Github Pages
 permissions:
