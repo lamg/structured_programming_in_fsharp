@@ -1,0 +1,13 @@
+<PropertyGroup>
+    <!-- Example ultra-simple styling and generation settings for FsDocs default template-->
+    <PackageLicenseUrl>https://github.com/foo/bar/blob/master/License.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/lamg/structured_programming_in_fsharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/lamg/structured_programming_in_fsharp</RepositoryUrl>
+    <FsDocsLogoLink>https://lamg.dev</FsDocsLogoLink>
+    <FsDocsLogoSource>img/logo.png</FsDocsLogoSource>
+    <FsDocsFaviconSource>img/favicon.ico</FsDocsFaviconSource>
+    <FsDocsLicenseLink>https://github.com/foo/bar/blob/master/License.txt</FsDocsLicenseLink>
+    <FsDocsReleaseNotesLink>https://github.com/foo/bar/blob/master/release-notes.md</FsDocsReleaseNotesLink>
+    <FsDocsWarnOnMissingDocs>true</FsDocsWarnOnMissingDocs>
+    <FsDocsTheme>default</FsDocsTheme>
+</PropertyGroup>
