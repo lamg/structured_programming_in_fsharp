@@ -5,8 +5,8 @@
     <RepositoryUrl>https://github.com/lamg/structured_programming_in_fsharp</RepositoryUrl>
     <PackageIcon>logo.png</PackageIcon>
     <FsDocsLogoLink>https://lamg.dev</FsDocsLogoLink>
-    <FsDocsLogoSource>logo.png</FsDocsLogoSource>
-    <FsDocsFaviconSource>favicon.ico</FsDocsFaviconSource>
+    <FsDocsLogoSource>img/logo.png</FsDocsLogoSource>
+    <FsDocsFaviconSource>img/logo.png</FsDocsFaviconSource>
     <FsDocsLicenseLink>https://github.com/foo/bar/blob/master/License.txt</FsDocsLicenseLink>
     <FsDocsReleaseNotesLink>https://github.com/foo/bar/blob/master/release-notes.md</FsDocsReleaseNotesLink>
     <FsDocsWarnOnMissingDocs>true</FsDocsWarnOnMissingDocs>
