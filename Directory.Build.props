@@ -3,9 +3,10 @@
     <PackageLicenseUrl>https://github.com/foo/bar/blob/master/License.txt</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/lamg/structured_programming_in_fsharp</PackageProjectUrl>
     <RepositoryUrl>https://github.com/lamg/structured_programming_in_fsharp</RepositoryUrl>
+    <PackageIcon>logo.png</PackageIcon>
     <FsDocsLogoLink>https://lamg.dev</FsDocsLogoLink>
-    <FsDocsLogoSource>docs/img/logo.png</FsDocsLogoSource>
-    <FsDocsFaviconSource>docs/img/favicon.ico</FsDocsFaviconSource>
+    <FsDocsLogoSource>logo.png</FsDocsLogoSource>
+    <FsDocsFaviconSource>favicon.ico</FsDocsFaviconSource>
     <FsDocsLicenseLink>https://github.com/foo/bar/blob/master/License.txt</FsDocsLicenseLink>
     <FsDocsReleaseNotesLink>https://github.com/foo/bar/blob/master/release-notes.md</FsDocsReleaseNotesLink>
     <FsDocsWarnOnMissingDocs>true</FsDocsWarnOnMissingDocs>
