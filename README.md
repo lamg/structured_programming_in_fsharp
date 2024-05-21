@@ -6,8 +6,9 @@ patterns that traditional imperative programming hides. I was delighted to disco
 Another surprise is that F# is a great candidate to explore functional data structures, which seem could be 
 a good update to the excellent work by [Chris Okasaki](https://en.wikipedia.org/wiki/Chris_Okasaki#Purely_functional_data_structures)
 
-- [Breadth-First Search](./docs/bfs.ipynb)
-- [Queue](./docs/queue.ipynb)
-- [Pattern matching nesting reduction](./docs/pattern_matching_nesting_reduction.ipynb)
-- [Fixed points](./docs/fixed_points.ipynb)
-- [Exception vs Result](./docs/exception_vs_result.ipynb)
+- [Breadth-First Search](./bfs.ipynb)
+- [Queue](./queue.ipynb)
+- [Pattern matching nesting reduction](./pattern_matching_nesting_reduction.ipynb)
+- [Fixed points](./fixed_points.ipynb)
+- [Exception vs Result](./exception_vs_result.ipynb)
+- [Bottom-up approach to devise a structure](./r0b0t.ipynb)
