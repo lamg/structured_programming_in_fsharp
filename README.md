@@ -11,4 +11,4 @@ a good update to the excellent work by [Chris Okasaki](https://en.wikipedia.org/
 - [Pattern matching nesting reduction](./docs/pattern_matching_nesting_reduction.ipynb)
 - [Fixed points](./docs/fixed_points.ipynb)
 - [Exception vs Result](./docs/exception_vs_result.ipynb)
-- [Bottom-up approach to devise a structure: r0b0t](./docs/r0b0t.ipynb)
+- [Designing a structure from the bottom up: r0b0t](./docs/r0b0t.ipynb)
